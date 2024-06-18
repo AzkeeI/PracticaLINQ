@@ -1,0 +1,14 @@
+c:\Users\julia\OneDrive\Documents\POO2\LINQ\EjerciciosLINQ\bin\Debug\net8.0\EjerciciosLINQ.exe
+c:\Users\julia\OneDrive\Documents\POO2\LINQ\EjerciciosLINQ\bin\Debug\net8.0\EjerciciosLINQ.deps.json
+c:\Users\julia\OneDrive\Documents\POO2\LINQ\EjerciciosLINQ\bin\Debug\net8.0\EjerciciosLINQ.runtimeconfig.json
+c:\Users\julia\OneDrive\Documents\POO2\LINQ\EjerciciosLINQ\bin\Debug\net8.0\EjerciciosLINQ.dll
+c:\Users\julia\OneDrive\Documents\POO2\LINQ\EjerciciosLINQ\bin\Debug\net8.0\EjerciciosLINQ.pdb
+c:\Users\julia\OneDrive\Documents\POO2\LINQ\EjerciciosLINQ\obj\Debug\net8.0\EjerciciosLINQ.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\julia\OneDrive\Documents\POO2\LINQ\EjerciciosLINQ\obj\Debug\net8.0\EjerciciosLINQ.AssemblyInfoInputs.cache
+c:\Users\julia\OneDrive\Documents\POO2\LINQ\EjerciciosLINQ\obj\Debug\net8.0\EjerciciosLINQ.AssemblyInfo.cs
+c:\Users\julia\OneDrive\Documents\POO2\LINQ\EjerciciosLINQ\obj\Debug\net8.0\EjerciciosLINQ.csproj.CoreCompileInputs.cache
+c:\Users\julia\OneDrive\Documents\POO2\LINQ\EjerciciosLINQ\obj\Debug\net8.0\EjerciciosLINQ.dll
+c:\Users\julia\OneDrive\Documents\POO2\LINQ\EjerciciosLINQ\obj\Debug\net8.0\refint\EjerciciosLINQ.dll
+c:\Users\julia\OneDrive\Documents\POO2\LINQ\EjerciciosLINQ\obj\Debug\net8.0\EjerciciosLINQ.pdb
+c:\Users\julia\OneDrive\Documents\POO2\LINQ\EjerciciosLINQ\obj\Debug\net8.0\EjerciciosLINQ.genruntimeconfig.cache
+c:\Users\julia\OneDrive\Documents\POO2\LINQ\EjerciciosLINQ\obj\Debug\net8.0\ref\EjerciciosLINQ.dll
